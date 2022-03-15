@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightningMessageChannel xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Nic Example</description>
+    <isExposed>true</isExposed>
+    <lightningMessageFields>
+        <description>Example</description>
+        <fieldName>text</fieldName>
+    </lightningMessageFields>
+    <masterLabel>Nic Example</masterLabel>
+</LightningMessageChannel>
